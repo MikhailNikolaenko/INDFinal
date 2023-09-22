@@ -1,0 +1,55 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "RuntimeDataTable",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4c7c4f8d523f4c90b2e26d23502c526c"
+		},
+		{
+			"Name": "DialoguePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/847aa65dc3024a37ae83ed89307524bd"
+		},
+		{
+			"Name": "TwinmotionToUnrealContent",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/datasmith-twinmotion-content-for-unreal-engine",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"Mac",
+		"PS4",
+		"PS5",
+		"Windows",
+		"WindowsNoEditor",
+		"Switch",
+		"XboxOne",
+		"XSX",
+		"HoloLens"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.ind45-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/Unreal_Project/github/IND45/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "IND45-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
